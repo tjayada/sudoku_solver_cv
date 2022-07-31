@@ -4,11 +4,11 @@
 With requirements installed simply call the script with the image path, e.g		
 python3 main.py image.png
 
-<img src="example_images/test1_output.png" width="300" height="200">
+<img src="example_images/test1_output.png" width="500" height="300">
 
 Above is the output for the image test1.png below
 
-<img src="example_images/test1.png" width="300" height="300">
+<img src="example_images/test1.png" width="500" height="500">
 
 
 ### 2. Adaptable	
@@ -31,10 +31,10 @@ The other examples in this repo are visualized below
 -
 ##### Test2.png	
 
-<img src="example_images/test2.png" width="300" height="300">
+<img src="example_images/test2.png" width="500" height="500">
 
 ##### Test2.png Solution	
-<img src="example_images/test2_output.png" width="300" height="200">
+<img src="example_images/test2_output.png" width="500" height="300">
 
 
 -
@@ -42,10 +42,10 @@ The other examples in this repo are visualized below
 -
 
 ##### Test3.png	
-<img src="example_images/test3.png" width="300" height="200">
+<img src="example_images/test3.png" width="500" height="400">
 
 ##### Test3.png Solution	
-<img src="example_images/test3_output.png" width="300" height="200">
+<img src="example_images/test3_output.png" width="500" height="300">
 
 
 ### Further Improvements	
