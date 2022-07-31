@@ -2,6 +2,7 @@
 
 ### 1. Function	
 With requirements installed simply call the script with the image path, e.g		
+
 python3 main.py image.png
 
 <img src="example_images/test1_output.png" width="500" height="300">
@@ -28,7 +29,7 @@ And failed on:
 
 The other examples in this repo are visualized below
 	
--
+<hr>
 ##### Test2.png	
 
 <img src="example_images/test2.png" width="500" height="500">
@@ -37,9 +38,10 @@ The other examples in this repo are visualized below
 <img src="example_images/test2_output.png" width="500" height="300">
 
 
--
--
--
+<hr>
+<hr>
+<hr>
+
 
 ##### Test3.png	
 <img src="example_images/test3.png" width="500" height="400">
